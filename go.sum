@@ -1,0 +1,4 @@
+git.zabbix.com/ap/plugin-support v1.2.1 h1:hinT04FY/4t6Hcx/Jvj2cyNggvfllQ2OvzyZCTf99o0=
+git.zabbix.com/ap/plugin-support v1.2.1/go.mod h1:R3QzQWgpxlA+ddJNkOhsPTcGOVtrR69WS0hXIsnBurY=
+github.com/go-co-op/gocron v1.18.0 h1:SxTyJ5xnSN4byCq7b10LmmszFdxQlSQJod8s3gbnXxA=
+github.com/go-co-op/gocron v1.18.0/go.mod h1:sD/a0Aadtw5CpflUJ/lpP9Vfdk979Wl1Sg33HPHg0FY=
